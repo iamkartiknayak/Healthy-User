@@ -9,7 +9,7 @@ import os
 
 def listen(cmd, flag):
     '''This function will listen to user for appropriate reply for the same asked by program'''
-    drank_water = ["I drank water", "I drink water", "I drank some water", "I drink some water"]
+    drank_water = ["I drank water", "I drunk water", "I drank some water", "I drunk some water"]
     eye_exercise = ["I did eyes exercise", "I exercise my eyes"]
     physical_exercise = ["I walked", "I did walk", "I did physical exercise", "I did physical activity"]
     crt_time = time()
